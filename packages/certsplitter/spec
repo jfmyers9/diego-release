@@ -1,0 +1,7 @@
+---
+name: certsplitter
+
+dependencies: []
+
+files:
+  - code.cloudfoundry.org/certsplitter/cmd/certsplitter/*.go # gosub

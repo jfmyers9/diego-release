@@ -32,6 +32,7 @@ packages:
   - rep
   - healthcheck
   - proxy
+  - certsplitter
 
 properties:
   diego.rep.listen_addr:
